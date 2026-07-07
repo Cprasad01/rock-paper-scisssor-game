@@ -17,4 +17,5 @@ The Description of the rock paper scissor game:
 ->  Print a message to the console announcing the winner or loser.
 
 
-# Now i am working on the 102
+/* #  currently woking on the 101 ticket () with the  java function here 
+*/
