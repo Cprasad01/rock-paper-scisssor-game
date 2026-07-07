@@ -19,3 +19,8 @@ The Description of the rock paper scissor game:
 
 /* #  currently woking on the 101 ticket () with the  java function here 
 */
+
+//102 ticket assining
+psvm{
+    int a=1;
+}
